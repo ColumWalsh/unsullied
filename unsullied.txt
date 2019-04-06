@@ -6,7 +6,7 @@ www.reddit.com##div.SubredditVars-r-gameofthrones:nth-of-type(2)
 reddit.com##.scrollerItem:has-text(/tyrion|lannister|freefolk|khaleesi|john snow|jon snow|cersei|peter dinklage|game of thrones|thrones|daenarys|daenerys|targaryan|brienne|winterfell|thrones|baratheon|danarys|season 8|tarth/i)
 !Youtube filters
 !home page
-youtube.com###video-title:has-text((/tyrion|lannister|freefolk|khaleesi|john snow|jon snow|cersei|peter dinklage|game of thrones|thrones|daenarys|daenerys|targaryan|brienne|winterfell|thrones|baratheon|danarys|season 8|tarth/i)
+youtube.com###items > ytd-grid-video-renderer.yt-horizontal-list-renderer.style-scope:has-text(/tyrion|lannister|freefolk|khaleesi|john snow|jon snow|cersei|peter dinklage|game of thrones|thrones|daenarys|daenerys|targaryan|brienne|winterfell|thrones|baratheon|danarys|season 8|tarth/i)
 !trending
 youtube.com###grid-container > ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/tyrion|lannister|freefolk|khaleesi|john snow|jon snow|cersei|peter dinklage|game of thrones|thrones|daenarys|daenerys|targaryan|brienne|winterfell|thrones|baratheon|danarys|season 8|tarth/i)
 !search
